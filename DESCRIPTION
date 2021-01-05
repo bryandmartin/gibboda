@@ -1,0 +1,17 @@
+Package: gibboda
+Title: Gender Isn't Binary But Other Data Are
+Version: 0.1.0
+Authors@R: 
+    person(given = "Bryan D",
+           family = "Martin",
+           role = c("aut", "cre"),
+           email = "bmartin6@uw.edu")
+Description: This package provides several datasets that include binary data 
+  that aren't gender, because gender isn't binary.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
